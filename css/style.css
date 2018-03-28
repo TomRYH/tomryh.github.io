@@ -50,6 +50,7 @@ body{
   flex-direction: row;
   align-items: flex-end;
   padding-left: 0.6em;
+  list-style-type: none;
 }
 
 #contactLinks a:visited{
