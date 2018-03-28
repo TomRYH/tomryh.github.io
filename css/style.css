@@ -10,7 +10,6 @@ body{
   color: #abb3bb;
   line-height: 1.8em;
   text-align: right;
-
 }
 
 #indexLinks a{
@@ -44,7 +43,7 @@ body{
 /**conact.html style**/
 #contactLinks a{
   font-size: 2em;
-  color: #f3a462;
+  color: #777c81;
   text-decoration: none;
   display: flex;
   flex-direction: row;
@@ -55,14 +54,12 @@ body{
 
 #contactLinks a:visited{
   text-decoration: none;
-  color: #f3a462;
+  color: #777c81;
 }
 
 #contactLinks a:hover{
   color: #9bc77e;
 }
-
-
 
 /**about.html style**/
 
