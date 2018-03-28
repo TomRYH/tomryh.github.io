@@ -41,6 +41,31 @@ body{
 .space{
   margin-top: 17%;
 }
+/**conact.html style**/
+#contactLinks a{
+  font-size: 2em;
+  color: #f3a462;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  padding-left: 0.6em;
+}
+
+#contactLinks a:visited{
+  text-decoration: none;
+  color: #f3a462;
+}
+
+#contactLinks a:hover{
+  color: #9bc77e;
+}
+
+#contactLinks {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 /**about.html style**/
 
